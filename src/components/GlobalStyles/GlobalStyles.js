@@ -71,6 +71,7 @@ html {
     Silence the warning about missing Reach Dialog styles
   */
   --reach-dialog: 1;
+  --color-gray-900: 'hsl(220deg 3% 20%)';
 }
 
 html, body, #root {
